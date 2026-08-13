@@ -1,94 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=250&amp;section=header&amp;text=Hi%20There,%20I'm%20Arjun%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc=BTech%20IT%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20ML%20Explorer&amp;descAlignY=62&amp;descSize=18&amp;descColor=E0E7FF" width="100%"/>
+# 💜 Hi There, I'm Arjun 👋
 
-<br>
+### 🐍 Python Developer | 🤖 AI & ML Enthusiast | 💻 BTech IT Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2500&amp;pause=700&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A9;Building+Practical+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arjunbusam&style=for-the-badge&color=8E2DE2" alt="Profile Views">
+</p>
 
-<br>
-
-<a href="https://github.com/arjunbusam">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arjun-busam-b079333a2">
-<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-</a>
-
-<a href="mailto:arjunbusam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arjunbusam&amp;style=for-the-badge&amp;color=6C63FF" alt="Profile Views"/>
+<p>
+  <a href="https://github.com/arjunbusam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/arjun-busam-b079333a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:arjunbusam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 About Me
 
-## 🌌 About Me
+🎓 I'm a **BTech Information Technology student** from India.
 
-</div>
+🐍 Passionate about **Python programming** and software development.
 
-<table>
-<tr>
-<td width="60%">
+🤖 Currently exploring **Artificial Intelligence, Machine Learning and LLMs**.
 
-🎓 **BTech Information Technology Student**
+💻 Improving my **Data Structures & Algorithms** and problem-solving skills.
 
-🐍 Passionate about **Python Development**
+🚀 Interested in building practical projects and gaining real-world experience.
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+### 🎯 Career Goals
 
-🧩 Practicing **Data Structures & Algorithms**
+* Software Engineering
+* Python Development
+* Artificial Intelligence
+* Machine Learning
 
-🚀 Building practical software projects
+### ⚡ Interests
 
-💡 Always interested in learning new technologies
-
-🎯 **Career Goal:** Software Engineering & AI/ML
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arjunbusam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=6366F1&amp;text_color=E5E7EB" width="100%"/>
-
-</td>
-</tr>
-</table>
+🏏 Cricket   |   🏐 Volleyball   |   🎮 Gaming   |   💡 Technology
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
 
-## 💻 Tech Stack
+### 💻 Programming Languages
 
-### 🐍 Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js&amp;theme=dark" />
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 ### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&amp;theme=dark" />
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&amp;theme=dark" />
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
-</div>
+### 🧩 Data Structures & Algorithms
+
+<p>
+<img src="https://img.shields.io/badge/DSA-8E2DE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem%20Solving-4A00E0?style=for-the-badge">
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
-
-</div>
 
 <table>
 <tr>
@@ -97,16 +108,16 @@
 
 ### 🔐 OTP Generator
 
-Python project that generates random OTPs.
+Python project for generating random OTPs.
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 <br><br>
 
 <a href="https://github.com/arjunbusam/python_project">
-<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+View Project →
 </a>
 
 </td>
@@ -115,16 +126,16 @@ Python project that generates random OTPs.
 
 ### 📊 Student Marks Calculator
 
-Calculates total marks, average, percentage and result.
+Python project for calculating student marks, total, average and percentage.
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 <br><br>
 
 <a href="https://github.com/arjunbusam/python_project">
-<img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+View Project →
 </a>
 
 </td>
@@ -133,16 +144,16 @@ Calculates total marks, average, percentage and result.
 
 ### 🎮 Python Game
 
-A simple Python game created to practice programming logic.
+A simple Python game project created to practice programming logic.
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 <br><br>
 
 <a href="https://github.com/arjunbusam/python_project">
-<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+View Project →
 </a>
 
 </td>
@@ -152,81 +163,79 @@ A simple Python game created to practice programming logic.
 
 ---
 
-<div align="center">
-
 ## 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/Advanced%20Python-8B5CF6?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-2563EB?style=for-the-badge"/>
-
-</div>
+<table>
+<tr>
+<td align="center">🐍<br><b>Advanced Python</b></td>
+<td align="center">🧩<br><b>DSA</b></td>
+<td align="center">🤖<br><b>AI & ML</b></td>
+<td align="center">🧠<br><b>LLMs</b></td>
+<td align="center">☁️<br><b>Cloud</b></td>
+</tr>
+</table>
 
 ---
-
-<div align="center">
 
 ## 🏆 Certifications
 
-🌐 **Web Development Certification**
-
-🤖 **Claude AI Certification**
-
-🧠 **LLM Certification**
-
-</div>
+* 🌐 Web Development Certification
+* 🤖 Claude AI Certification
+* 🧩 LLM Certification
 
 ---
 
+## 🤝 Open to Collaborate On
+
+🚀 Open-source projects
+
+🤖 AI & Machine Learning projects
+
+💻 Python projects
+
+🔬 Research projects
+
+💡 Startup ideas
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-## 📊 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=arjunbusam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbusam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=E5E7EB" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbusam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" width="48%">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arjunbusam&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=6366F1&amp;currStreakLabel=8B5CF6" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=arjunbusam&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" width="60%">
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🤝 Open to Collaborate
-
-🚀 Open Source   •  
-🤖 AI/ML Projects   •  
-🐍 Python Projects   •  
-💡 Startup Ideas
-
-</div>
-
----
+## 📫 Connect With Me
 
 <div align="center">
-
-## 📫 Let's Connect
 
 <a href="https://github.com/arjunbusam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/arjun-busam-b079333a2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:arjunbusam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243E,50:302B63,100:0F0C29&amp;height=150&amp;section=footer" width="100%"/>
+---
+
+<div align="center">
 
 ### 💜 Thanks for visiting my profile!
 
