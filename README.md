@@ -1,25 +1,32 @@
 <!-- ============================================
      GitHub Profile README — arjunbusam
      Feel free to edit any section below!
+     Theme: purple/blue gradient (tokyonight-inspired)
      ============================================ -->
 
-<h1 align="center">Hi 👋, I'm Busam Lalith Kota Naga Arjun</h1>
-<h3 align="center">Programmer | BTech IT Student | Exploring AI & ML</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Projects;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There,%20I'm%20Arjun%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20|%20BTech%20IT%20Student%20|%20AI%20%26%20ML%20Explorer&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arjun-busam-b079333a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arjunbusam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Practical+Software+Projects+%E2%9A%99%EF%B8%8F;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
----
+<br/>
+
+<a href="https://www.linkedin.com/in/arjun-busam-b079333a2" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arjunbusam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/arjunbusam" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=arjunbusam&style=for-the-badge&color=8e2de2" alt="profile views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%" width="100%"/>
 
 ## 🧠 About Me
 
@@ -29,7 +36,7 @@ I'm a **BTech Information Technology** student, based in **India**, passionate a
 - ⚡ **Interests:** Cricket & Volleyball 🏏🏐, Video Games 🎮, Exploring new tech
 - 💡 **Fun Fact:** I'm a quick learner who enjoys challenging myself to pick up something new whenever I get the chance
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Technical Skills
 
@@ -60,42 +67,62 @@ I'm a **BTech Information Technology** student, based in **India**, passionate a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <!-- Update the links below if you split these into separate repos later -->
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### 🔐 OTP Generator
 A simple Python program that generates random one-time passwords (OTPs).
-**Tech Stack:** Python
+
+![Python](https://img.shields.io/badge/-Python-8E2DE2?style=flat-square&logo=python&logoColor=white)
+
 🔗 [View Code](https://github.com/arjunbusam/python_project.git)
 
+</td>
+<td width="33%" valign="top">
+
 ### 📊 Student Marks Calculator
-A Python program that calculates total marks, percentage, and result based on student marks.
-**Tech Stack:** Python
+Calculates total marks, percentage, and result based on student marks.
+
+![Python](https://img.shields.io/badge/-Python-4A00E0?style=flat-square&logo=python&logoColor=white)
+
 🔗 [View Code](https://github.com/arjunbusam/python_project.git)
+
+</td>
+<td width="33%" valign="top">
 
 ### 🎮 Python Game Project
 <!-- Replace "Python Game Project" with your actual game's name -->
-A simple game developed using Python to practice programming logic and problem-solving skills.
-**Tech Stack:** Python
+A simple game built in Python to practice logic and problem-solving.
+
+![Python](https://img.shields.io/badge/-Python-8E2DE2?style=flat-square&logo=python&logoColor=white)
+
 🔗 [View Code](https://github.com/arjunbusam/python_project.git)
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunbusam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbusam&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunbusam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbusam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arjunbusam&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=arjunbusam&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" width="60%" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%" width="100%"/>
 
 ## 🏆 Achievements & Certifications
 
@@ -103,7 +130,7 @@ A simple game developed using Python to practice programming logic and problem-s
 - 🤖 Claude AI Certification
 - 🧩 LLM (Large Language Models) Certification
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%" width="100%"/>
 
 ## 📚 Currently Learning
 
@@ -111,7 +138,7 @@ A simple game developed using Python to practice programming logic and problem-s
 - 🧠 Large Language Models (LLMs)
 - 🐍 Advanced Python for AI applications
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%" width="100%"/>
 
 ## 🤝 Open to Collaborate On
 
@@ -120,7 +147,7 @@ A simple game developed using Python to practice programming logic and problem-s
 - Research projects
 - Startup ideas
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%" width="100%"/>
 
 ## 📫 Connect With Me
 
@@ -135,5 +162,7 @@ A simple game developed using Python to practice programming logic and problem-s
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
 
 <p align="center"><i>Thanks for visiting my profile — let's build something great together! 🚀</i></p>
