@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8E2DE2,100:4A00E0&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Arjun%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Programmer%20|%20BTech%20IT%20Student%20|%20AI%20%26%20ML%20Explorer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8E2DE2,100:4A00E0&amp;height=220&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Arjun%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Programmer%20%7C%20BTech%20IT%20Student%20%7C%20AI%20%26%20ML%20Explorer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=8E2DE2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Practical+Software+Projects+%E2%9A%99%EF%B8%8F;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
